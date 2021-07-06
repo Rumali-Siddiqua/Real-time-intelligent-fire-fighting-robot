@@ -16,3 +16,11 @@ This project helps a consumer to remotely control a firefighting robot with a wa
 <p align="middle">
 <img src="Demo robot.jpg">
 </p>
+## Design Methodology
+<p align="middle">
+<img src="Design Methodology.png">
+</p>
+
+<p align="middle">
+<img src="Proteus Model.png">
+</p>
