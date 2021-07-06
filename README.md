@@ -16,8 +16,10 @@ This project helps a consumer to remotely control a firefighting robot with a wa
 <p align="middle">
 <img src="Demo robot.jpg">
 </p>
-### Design Methodology
+
+## Design Methodology
 The entire system of the project was designed using the Proteus Design Suite.
+
 <p align="middle">
 <img src="Proteus Model.png">
 </p>
