@@ -1,4 +1,4 @@
-# Real-time-intelligent-fire-fighting-robot
+# Real time intelligent fire fighting robot
 
 ## Hardware components
 - Arduino Uno
